@@ -1,4 +1,4 @@
-package scala_beginners.scala_beginners.lectures.part1basics
+package scala_beginners.lectures.part1basics
 
 object DefaultArgs extends App {
   def trFact(n: Int, acc: Int = 1): Int =

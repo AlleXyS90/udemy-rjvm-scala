@@ -1,4 +1,4 @@
-package scala_beginners.scala_beginners.lectures.part1basics
+package scala_beginners.lectures.part1basics
 
 object StringOps extends App {
 

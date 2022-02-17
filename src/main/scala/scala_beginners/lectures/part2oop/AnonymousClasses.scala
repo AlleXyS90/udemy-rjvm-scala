@@ -1,4 +1,4 @@
-package scala_beginners.scala_beginners.lectures.part2oop
+package scala_beginners.lectures.part2oop
 
 object AnonymousClasses extends App {
   abstract class Animal {
